@@ -1,6 +1,6 @@
 👋 About Me
 
-I’m a tech professional with 13+ years of experience in Data Engineering, ETL, QA, and DevOps, now transitioning into the role of an AI Product Owner.
+I’m a tech professional with 12+ years of experience in Data Engineering, Big Data , ETL, QA, and DevOps, now transitioning into the role of an AI Product Owner.
 
 My current focus is on building intelligent solutions that combine machine learning, deep learning, and real-time data systems to solve real-world problems. I’m actively involved in research and product development, and I'm passionate about bridging the gap between technical capabilities and business value.
 
